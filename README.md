@@ -19,7 +19,7 @@ thx! https://github.com/pions/webrtc
 # install
 
 ```sh
-$ go get -u github.com/nobonobo/ssh-p2p
+$ go get -u github.com/tienlx93/ssh-p2p
 ```
 
 # usage
