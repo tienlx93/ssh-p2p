@@ -1,7 +1,7 @@
 package signaling
 
 // URI default signaling server
-const URI = "https://signal.tienlx.tools/"
+const URI = "https://signal.tienlx.tools"
 
 // ConnectInfo SDP by offer or answer
 type ConnectInfo struct {
